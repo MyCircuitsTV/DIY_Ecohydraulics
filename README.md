@@ -55,7 +55,7 @@ To program the ESP32 using the Arduino IDE, you need to install the ESP32 board 
 
 5. **Select Your ESP32 Board**:
     - After installation, go to `Tools` > `Board` and select the ESP32 board model you are using from the list under "ESP32 Arduino".
-	- For the workshop, the board will be: `ESP32 Dev Module`
+	- For the workshop, the board will be a Sentinel, to use it we will need to select the ESP32 board model: `ESP32 Dev Module`
 
 6. **Verify Installation**:
     - Connect your ESP32 board to the computer via a USB cable.
