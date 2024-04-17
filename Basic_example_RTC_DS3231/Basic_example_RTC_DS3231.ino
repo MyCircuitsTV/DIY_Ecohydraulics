@@ -1,5 +1,5 @@
 /*
- *  ADVANCED EXAMPLE USING DS3231 RTC MODULE
+ *  BASIC EXAMPLE USING DS3231 RTC MODULE
  *
  *  This sketch demonstrates the use of a DS3231 Real-Time Clock module with an ESP32. It covers setting the time,
  *  configuring alarms, and handling them. The example includes serial output to illustrate how the RTC maintains
