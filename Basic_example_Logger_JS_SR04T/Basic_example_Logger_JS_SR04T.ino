@@ -1,7 +1,7 @@
 /*
  *  BASIC EXAMPLE OF TEMPERATURE LOGGER
  *
- *  This sketch integrates an ESP32 with a DS18B20 temperature sensor, includes SD card logging,
+ *  This sketch integrates an ESP32 with a JS-SR04T ultrasound sensor, includes SD card logging,
  *  and RTC for timestamping sensor readings.
  *  
  *  To Update time of the RTC, insert update time via serial.

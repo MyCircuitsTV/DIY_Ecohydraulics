@@ -56,7 +56,7 @@ void getLevel()
     readingsString += readings[i]/58.00;
     readingsString += ",";
 
-    delay(500);
+    delay(100);
   }
   
   // Determine the maximum value
