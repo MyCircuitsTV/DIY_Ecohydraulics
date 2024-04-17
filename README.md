@@ -24,7 +24,7 @@ This repository is structured into multiple examples that showcase basic to adva
 To get started with these examples, clone this repository to your local machine or download the ZIP file.
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/MyCircuitsTV/DIY_Ecohydraulics.git
 ```
 Each example has its associated libraries that need to be copied into your Arduino library folder (usually located at C:\Users\your_user\Documents\Arduino\libraries)
 
