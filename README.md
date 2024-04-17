@@ -66,7 +66,7 @@ Now, your Arduino IDE is set up to work with ESP32 boards, and you can proceed w
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Contact
 
